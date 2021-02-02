@@ -1,1 +1,5 @@
-
+.person-card img {
+  width: 20vw;
+  height: 40vh;
+  object-fit: cover;
+}
