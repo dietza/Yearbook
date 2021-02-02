@@ -2,6 +2,14 @@ import React from 'react';
 import Person from '../Person/Person';
 import './Cohort.css';
 
-// COHORT COMPONENT CODE GOES HERE
+const Cohort = ({ staff }) => {
+  return (
+    <div className="cohort-container">
+
+
+
+    </div>
+  )
+}
 
 export default Cohort;
