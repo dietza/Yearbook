@@ -6,8 +6,8 @@ const Person = (props) => {
     <div className="person-card"> 
       <img src={ props.image } alt="cool bird"/>
       <h2>{ props.name }</h2>
-      <h3>{ props.quote }</h3>
-      <p>{ props.superlative }</p>
+      <p>"{ props.quote }"</p>
+      <h3>{ props.superlative }</h3>
     </div>
   )
 }

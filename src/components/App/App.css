@@ -24,3 +24,15 @@ h1 {
   padding: 10px;
   color: limegreen;
 }
+
+h2 {
+  color: rgb(194, 27, 27);
+}
+
+h3 {
+  color: rgb(7, 129, 243);
+}
+
+p {
+  font-style: italic;
+}
